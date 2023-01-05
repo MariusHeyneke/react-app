@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-http://prickly-shop.surge.sh/
+Prod http://odd-brick.surge.sh
+Dev http://prickly-shop.surge.sh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
