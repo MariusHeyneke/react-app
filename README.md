@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![](https://github.com/MariusHeyneke/react-app/workflows/CI/badge.svg?brach=dev&event=push)
+
+Environments
 Prod http://odd-brick.surge.sh
 Dev http://prickly-shop.surge.sh
 

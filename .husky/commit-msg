@@ -2,3 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 npx --no -- commitlint --edit ${1}
+#Temp to fix format on commit
+npm run format
