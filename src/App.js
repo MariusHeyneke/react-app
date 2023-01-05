@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React - Auto Deployed
         </a>
       </header>
     </div>
